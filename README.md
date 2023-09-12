@@ -1,15 +1,17 @@
 ## Hey, I'm Aaron Worsnop 👋
-🎓 Software Engineering @ *The University of Auckland*
-🖥️ Web Developer @ *Retirement Planning Ltd*
+🎓 Software Engineering Student @ *The University of Auckland*  
+🖥️ Web Developer @ *Retirement Planning Ltd*  
 🎯 Incoming Software Engineering Intern @ *Tidy International*
 
-I'm passionate about coding, always learning, and constantly seeking new challenges. If you haven't already, feel free to explore my personal website at [aaronworsnop.com](https://aaronworsnop.com).
+I'm passionate about tech, people and the harmony of the two. Always learning and constantly seeking new challenges to broaden my horizons and expand my expertise. Learn more about me on *[aaronworsnop.com](https://aaronworsnop.com)*.
+
+----
 
 #### Skills and Languages
-🌐 `JavaScript` `HTML` `CSS` `PHP`
-💻 `Java` `Python` `MATLAB` `C#` `C`
-🎨 `Illustrator` `After Effects` `Photoshop` `Davinci Resolve`
+💻 `☕ Java` `🐍 Python` `📊 MATLAB` `🌟 C#` `📜 C`  
+🌐 `🧩 JavaScript` `📝 HTML` `🎨 CSS` `🐘 PHP`  
+🖋️ `⏺ Illustrator` `💥 After Effects` `📷 Photoshop` `🎬 Davinci Resolve`
 
 #### Hobbies and Interests
-🎹 `Piano` 📚 `Learning New Skills` ⌨️ `Keyboards` 🎮 `Gaming` 
-🥽 `VR/AR` 🤖 `AI` 💹 `Trading (stocks, crypto etc.)`
+`🎹 Piano` `📈 Trading` `🎮 Gaming` `⌨️ Keyboards` `🧠 Human-computer Interaction`  
+`🥽 VR/AR` `🤖 AI` `📖 Learning New Skills` `🎥 Content Creation`
