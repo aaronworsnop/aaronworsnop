@@ -1,7 +1,6 @@
 ## Hey, I'm Aaron Worsnop 👋
 🎓 Software Engineering Student @ *The University of Auckland*  
 🖥️ Web Developer @ *Retirement Planning Ltd*  
-🎯 Incoming Software Engineering Intern @ *Tidy International*
 
 I'm passionate about tech, people and the harmony of the two. Always learning and constantly seeking new challenges to broaden my horizons and expand my expertise. Learn more about me on *[aaronworsnop.com](https://aaronworsnop.com)*.
 
