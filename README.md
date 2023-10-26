@@ -1,5 +1,5 @@
 ## Hey, I'm Aaron Worsnop 👋
-🎯 Software Engineer Intern @ Tidy International
+🎯 Software Engineer Intern @ Tidy International  
 🎓 Software Engineering Student @ *The University of Auckland*  
 🖥️ Web Developer @ *Retirement Planning Ltd*  
 
