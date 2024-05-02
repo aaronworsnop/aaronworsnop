@@ -2,6 +2,7 @@
 🎓 Software Engineering Student @ *The University of Auckland*  
 🌏 Exchange Student @ *Seoul National University*  
 🖥️ Web Developer @ *Retirement Planning Ltd*  
+🌐 General Executive @ *Google Developer Student Club UoA*  
 
 I'm passionate about tech, people and the harmony of the two. Always learning and constantly seeking new challenges to broaden my horizons and expand my expertise. Learn more about me on *[aaronworsnop.com](https://aaronworsnop.com)*.
 
