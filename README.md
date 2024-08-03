@@ -13,4 +13,4 @@ I'm passionate about tech, people and the harmony of the two. Always learning an
 
 #### Hobbies and Interests
 `🎹 Piano` `📈 Trading` `🎮 Gaming` `⌨️ Keyboards` `🧠 Human-computer Interaction`  
-`🥽 VR/AR` `🤖 AI` `📖 Learning New Skills` `🎥 Content Creation`
+`🥽 VR/AR` `🤖 AI` `📖 Learning New Skills` `🎥 Content Creation` `🏃 Exercise`
