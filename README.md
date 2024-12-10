@@ -1,4 +1,5 @@
 ## Hey, I'm Aaron Worsnop 👋
+🎧 Software Engineer Intern @ *Serato*  
 🎓 Software Engineering Student @ *The University of Auckland*  
 🌐 President @ *Google Developer Student Club UoA*  
 
@@ -7,7 +8,7 @@ I'm passionate about tech, people and the harmony of the two. Always learning an
 ----
 
 #### Skills and Languages
-💻 `☕ Java` `🐍 Python` `📊 MATLAB` `🌟 C#` `📜 C`  
+💻 `☕ Java` `🐍 Python` `🌟 C++` `📜 C`  
 🌐 `🧩 JavaScript` `🧩 Typescript` `📝 HTML` `🎨 CSS` `🐘 PHP`  
 🖋️ `✏️ Illustrator` `📏 Figma` `💥 After Effects` `📷 Photoshop` `🎬 Davinci Resolve`
 
