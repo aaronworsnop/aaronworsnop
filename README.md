@@ -1,5 +1,4 @@
 ## Hey, I'm Aaron Worsnop 👋
-🎧 Software Engineer Intern @ *Serato*  
 🎓 Software Engineering Student @ *The University of Auckland*  
 🌐 President @ *Google Developer Groups on Campus UoA*  
 
