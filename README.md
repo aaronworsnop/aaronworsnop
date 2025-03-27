@@ -8,7 +8,7 @@ I'm passionate about tech, people and the harmony of the two. Always learning an
 
 #### Skills and Languages
 💻 `☕ Java` `🌟 C++` `🐍 Python` `📜 C`  
-🌐 `🧩 JavaScript` `🧩 Typescript` `📝 HTML` `🎨 CSS` `🐘 PHP`  
+🌐 `🧩 JavaScript` `🧩 Typescript` `📝 HTML` `🎨 CSS` `🐘 PHP` `💽 SQL`  
 🖋️ `✏️ Illustrator` `📏 Figma` `💥 After Effects` `📷 Photoshop` `🎬 Davinci Resolve`
 
 #### Hobbies and Interests
