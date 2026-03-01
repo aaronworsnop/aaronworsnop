@@ -1,4 +1,5 @@
 ## Hey, I'm Aaron Worsnop 👋
+🍎 Software Engineer Intern @ *Apple*  
 🎓 Software Engineering Student @ *The University of Auckland*  
 🌐 Ex-President @ *Google Developer Groups on Campus UoA*  
 
