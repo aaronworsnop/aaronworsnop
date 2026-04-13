@@ -9,9 +9,9 @@ I'm passionate about tech, people and the harmony of the two. Always learning an
 ----
 
 #### Skills and Languages
-💻 `☕ Java` `🌟 C++` `🐍 Python` `📜 C`  
+💻 `☕ Java` `🐍 Python` `🌟 C++` `🦀 Rust`  
 🌐 `🧩 JavaScript` `🧩 Typescript` `📝 HTML` `🎨 CSS` `🐘 PHP` `💽 SQL`  
-🖋️ `✏️ Illustrator` `📏 Figma` `💥 After Effects` `📷 Photoshop` `🎬 Davinci Resolve`
+🖋️ `✏️ Illustrator` `📏 Figma` `🎬 Davinci Resolve` `💥 After Effects` `📷 Photoshop`  
 
 #### Hobbies and Interests
 `🎹 Piano` `📈 Trading` `🎮 Gaming` `⌨️ Keyboards` `🧠 Human-computer Interaction`  
